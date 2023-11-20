@@ -36,7 +36,48 @@ body{
 .menu ul li a{
     text-decoration: none;
 }
-.blog_btn{}
-.search_bar{}
-.search_bar input{}
-.search_bar i{}
+.blog_btn{
+
+}
+.search_bar{
+
+}
+.search_bar input{
+
+}
+.search_bar i{
+
+}
+
+
+/******* row 2***** */
+#row2{
+    height: 500px;
+    width: 100%;
+    background:url(https://c.wallhere.com/photos/24/cc/city_urban_architecture_building_cityscape_reflection_lights_city_lights-1618577.jpg!d);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_section{
+   width: 80%;
+   color: white;
+   text-align: center;
+}
+.banner_section h1{
+   font-size: 40px;
+   /*text-transform: uppercase;*/
+}
+.banner_section p{
+   text-align: justify;
+   padding-bottom: 20px;
+}
+.banner_section button{
+   padding: 10px;
+   background-color: orangered;
+   border: none;
+   border-radius: 10px;
+   
+}
